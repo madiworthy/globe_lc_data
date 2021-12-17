@@ -1,0 +1,9 @@
+index,lc_PhotoCount,lc_RejectedCount,lc_PendingCount,lc_EmptyCount,lc_PhotoBitDecimal,lc_ClassificationCount,lc_ClassificationBitDecimal,lc_SubCompletenessScore,lc_CumulativeCompletenessScore
+count,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+mean,3.091,0.808,0.0,2.101,31.313,0.384,1.414,0.347,0.901
+std,2.669,1.712,0.0,2.447,29.426,1.167,4.347,0.301,0.057
+min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8
+25%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.87
+50%,4.0,0.0,0.0,1.0,15.0,0.0,0.0,0.4,0.94
+75%,6.0,0.5,0.0,4.5,63.0,0.0,0.0,0.6,0.94
+max,6.0,6.0,0.0,6.0,63.0,4.0,15.0,1.0,0.99
